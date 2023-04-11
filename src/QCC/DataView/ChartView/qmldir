@@ -1,0 +1,8 @@
+module QCC.DataView.ChartView
+
+ChartViewArea 1.0 ChartViewArea.qml
+MultipleChartView 1.0 MultipleChartView.qml
+GraphToolbar 1.0 GraphToolbar.qml
+PrintToolbar 1.0 PrintToolbar.qml
+
+

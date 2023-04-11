@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/src/QCC/DataView">
+        <file alias="ChartView/ChartViewArea.qml">ChartViewArea.qml</file>
+        <file alias="ChartView/qmldir">qmldir</file>
+        <file alias="ChartView/GraphToolbar.qml">GraphToolbar.qml</file>
+        <file alias="ChartView/PrintToolbar.qml">PrintToolbar.qml</file>
+        <file alias="ChartView/MultipleChartView.qml">MultipleChartView.qml</file>
+    </qresource>
+    <qresource prefix="/ts">
+        <file alias="chartview_ru.qm">ts/chartview_ru.qm</file>
+    </qresource>
+</RCC>

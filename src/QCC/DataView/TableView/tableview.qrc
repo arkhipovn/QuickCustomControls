@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/src/QCC/DataView">
+        <file alias="TableView/qmldir">qmldir</file>
+        <file alias="TableView/TableView.qml">TableView.qml</file>
+        <file alias="TableView/Private/HeaderView.qml">Private/HeaderView.qml</file>
+        <file alias="TableView/Private/qmldir">Private/qmldir</file>
+        <file alias="TableView/Private/TableCell.qml">Private/TableCell.qml</file>
+        <file alias="TableView/TableToolbar.qml">TableToolbar.qml</file>
+    </qresource>
+    <qresource prefix="/ts">
+        <file alias="tableview_ru.qm">ts/tableview_ru.qm</file>
+    </qresource>
+</RCC>

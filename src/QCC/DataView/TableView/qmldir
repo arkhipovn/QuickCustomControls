@@ -1,0 +1,4 @@
+module QCC.DataView.TableView
+
+TableView 1.0 TableView.qml
+TableToolbar 1.0 TableToolbar.qml

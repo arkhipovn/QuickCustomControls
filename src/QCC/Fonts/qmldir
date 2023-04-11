@@ -1,0 +1,2 @@
+module QCC.Fonts
+singleton CFontLoader 1.0 CFontLoader.qml

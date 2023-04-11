@@ -1,0 +1,5 @@
+module QCC.DataView.TableView.Private
+
+TableCell 1.0 TableCell.qml
+HeaderView 1.0 HeaderView.qml
+

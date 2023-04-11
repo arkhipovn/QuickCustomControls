@@ -1,0 +1,8 @@
+#include "src/QCC/DataView/ChartView/src/cchartview.h"
+#include "src/QCC/DataView/ChartView/src/axis/caxis.h"
+#include "src/QCC/DataView/ChartView/src/axis/cvalueaxis.h"
+#include "src/QCC/DataView/ChartView/src/axis/cdatetimeaxis.h"
+#include "src/QCC/DataView/ChartView/src/axis/clogvalueaxis.h"
+#include "src/QCC/DataView/ChartView/src/series/clineseries.h"
+#include "src/QCC/DataView/ChartView/src/handlers/axisdraghandler.h"
+#include "src/QCC/DataView/multipledatasource.h"

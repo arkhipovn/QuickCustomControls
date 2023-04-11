@@ -1,0 +1,25 @@
+module QCC.Controls
+
+LinkButton 1.0 LinkButton.qml
+SymbolButton 1.0 SymbolButton.qml
+ClickableItem 1.0 ClickableItem.qml
+Slider 1.0 Slider.qml
+AttemptsSlider 1.0 AttemptsSlider.qml
+WaitingBar 1.0 WaitingBar.qml
+InteractivePane 1.0 InteractivePane.qml
+ColorSelectionItem 1.0 ColorSelectionItem.qml
+
+
+DateInput 1.0 DateInput.qml
+CheckableDateInput 1.0 CheckableDateInput.qml
+
+
+
+TextField 1.0 TextField.qml
+SuggestionsTextField 1.0 SuggestionsTextField.qml
+PasswordTextField 1.0 PasswordTextField.qml
+CheckableTextField 1.0 CheckableTextField.qml
+
+ToolTipListArea 1.0 ToolTipListArea.qml
+VchIcon 1.0 VchIcon.qml
+

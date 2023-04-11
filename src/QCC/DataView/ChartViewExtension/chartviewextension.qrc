@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/src/QCC/DataView">
+        <file alias="ChartViewExtension/qmldir">qmldir</file>
+        <file alias="ChartViewExtension/XYChart.qml">XYChart.qml</file>
+        <file alias="ChartViewExtension/XYChartSettingsPane.qml">XYChartSettingsPane.qml</file>
+        <file alias="ChartViewExtension/XYTableModelChart.qml">XYTableModelChart.qml</file>
+        <file alias="ChartViewExtension/ChartViewToolbar.qml">ChartViewToolbar.qml</file>
+        <file alias="ChartViewExtension/ChartPrintToolbar.qml">ChartPrintToolbar.qml</file>
+        <file alias="ChartViewExtension/MarkerValueLabel.qml">MarkerValueLabel.qml</file>
+        <file alias="ChartViewExtension/ChartLegend.qml">ChartLegend.qml</file>
+    </qresource>
+    <qresource prefix="/ts">
+        <file alias="chartviewextension_ru.qm">ts/chartviewextension_ru.qm</file>
+    </qresource>
+</RCC>

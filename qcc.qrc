@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/src/QCC">
+        <file alias="qmldir">src/QCC/qmldir</file>
+        <file alias="Controls/SymbolButton.qml">src/QCC/Controls/SymbolButton.qml</file>
+        <file alias="Controls/ClickableItem.qml">src/QCC/Controls/ClickableItem.qml</file>
+        <file alias="Controls/DateInput.qml">src/QCC/Controls/DateInput.qml</file>
+        <file alias="Controls/qmldir">src/QCC/Controls/qmldir</file>
+        <file alias="Controls/Slider.qml">src/QCC/Controls/Slider.qml</file>
+        <file alias="Controls/SuggestionsTextField.qml">src/QCC/Controls/SuggestionsTextField.qml</file>
+        <file alias="Controls/TextField.qml">src/QCC/Controls/TextField.qml</file>
+        <file alias="Controls/WaitingBar.qml">src/QCC/Controls/WaitingBar.qml</file>
+        <file alias="AppManager/FpsItem.qml">src/QCC/AppManager/FpsItem.qml</file>
+        <file alias="AppManager/qmldir">src/QCC/AppManager/qmldir</file>
+        <file alias="DataView/qmldir">src/QCC/DataView/qmldir</file>
+        <file alias="Fonts/CFontLoader.qml">src/QCC/Fonts/CFontLoader.qml</file>
+        <file alias="Fonts/qmldir">src/QCC/Fonts/qmldir</file>
+        <file alias="Controls/InteractivePane.qml">src/QCC/Controls/InteractivePane.qml</file>
+        <file alias="Controls/ColorSelectionItem.qml">src/QCC/Controls/ColorSelectionItem.qml</file>
+        <file alias="Dialogs/ColorDialog.qml">src/QCC/Dialogs/ColorDialog.qml</file>
+        <file alias="Dialogs/qmldir">src/QCC/Dialogs/qmldir</file>
+        <file alias="Controls/AttemptsSlider.qml">src/QCC/Controls/AttemptsSlider.qml</file>
+        <file alias="Controls/PasswordTextField.qml">src/QCC/Controls/PasswordTextField.qml</file>
+        <file alias="Controls/CheckableDateInput.qml">src/QCC/Controls/CheckableDateInput.qml</file>
+        <file alias="Controls/VchIcon.qml">src/QCC/Controls/VchIcon.qml</file>
+        <file alias="ObjectCreator.qml">src/QCC/ObjectCreator.qml</file>
+        <file alias="Controls.2/qmldir">src/QCC/Controls.2/qmldir</file>
+        <file alias="Controls.2/InteractivePane.qml">src/QCC/Controls.2/InteractivePane.qml</file>
+        <file alias="Controls.2/ClickableItem.qml">src/QCC/Controls.2/ClickableItem.qml</file>
+        <file alias="Controls.2/SymbolButton.qml">src/QCC/Controls.2/SymbolButton.qml</file>
+        <file alias="Controls/ToolTipListArea.qml">src/QCC/Controls/ToolTipListArea.qml</file>
+        <file alias="Controls.2/Slider.qml">src/QCC/Controls.2/Slider.qml</file>
+        <file alias="Controls/LinkButton.qml">src/QCC/Controls/LinkButton.qml</file>
+        <file alias="Controls/CheckableTextField.qml">src/QCC/Controls/CheckableTextField.qml</file>
+        <file alias="Validators/IpAddressValidator.qml">src/QCC/Validators/IpAddressValidator.qml</file>
+        <file alias="Validators/MacAddressValidator.qml">src/QCC/Validators/MacAddressValidator.qml</file>
+        <file alias="Validators/qmldir">src/QCC/Validators/qmldir</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="fontawesome-webfont.ttf">src/QCC/Fonts/fontawesome-webfont.ttf</file>
+    </qresource>
+    <qresource prefix="/ts">
+        <file alias="qcc_ru.qm">src/QCC/ts/qcc_ru.qm</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/images">
+        <file alias="vchicon.png">src/QCC/images/vchicon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+#include "src/helperclasses/filters/sortfilterproxylistmodel.h"
+#include "src/helperclasses/filters/sortfilterproxytablemodel.h"

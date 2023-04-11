@@ -1,0 +1,6 @@
+module QCC.Controls
+
+InteractivePane 2.0 InteractivePane.qml
+ClickableItem 2.0 ClickableItem.qml
+Slider 2.0 Slider.qml
+

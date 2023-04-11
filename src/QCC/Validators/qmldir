@@ -1,0 +1,4 @@
+module QCC.Validators
+
+MacAddressValidator 1.0 MacAddressValidator.qml
+IpAddressValidator 1.0 IpAddressValidator.qml

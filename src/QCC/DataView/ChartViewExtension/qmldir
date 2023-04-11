@@ -1,0 +1,12 @@
+module QCC.DataView.ChartViewExtension
+
+XYChart 1.0 XYChart.qml
+XYChartSettingsPane 1.0 XYChartSettingsPane.qml
+XYTableModelChart 1.0 XYTableModelChart.qml
+
+MarkerValueLabel 1.0 MarkerValueLabel.qml
+ChartLegend 1.0 ChartLegend.qml
+
+
+ChartViewToolbar 1.0 ChartViewToolbar.qml
+ChartPrintToolbar 1.0 ChartPrintToolbar.qml
